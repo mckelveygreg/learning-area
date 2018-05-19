@@ -135,3 +135,13 @@ timerWrapper.onclick = function (e) {
 	
 	media.currentTime = setScrubberTime;
 };
+
+// Trying to get a opaque scrubber on a mouse hover... 
+//function hoverBar() {
+//	var timerScrubber = timerWrapper.getBoundingClientRect();
+
+//	timerScrubber
+//	timerBar.style.width = 
+//}
+
+//timerWrapper.addEventListener('pointerover', hoverBar);
